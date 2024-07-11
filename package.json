@@ -1,0 +1,22 @@
+{
+  "name": "0038_adventure_game_project",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^10.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.10"
+  }
+}
